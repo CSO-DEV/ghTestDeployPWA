@@ -1,7 +1,7 @@
 {
   "short_name": "Pwa app",
   "name": "test pwa application",
-  "start_url": "/",
+  "start_url": "https://cso-dev.github.io/ghTestDeployPWA/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
