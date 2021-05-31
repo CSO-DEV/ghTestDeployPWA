@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ghTestDeployPWA/static/css/main.598d92b4.chunk.css",
-    "main.js": "/ghTestDeployPWA/static/js/main.22fbbd6d.chunk.js",
-    "main.js.map": "/ghTestDeployPWA/static/js/main.22fbbd6d.chunk.js.map",
+    "main.js": "/ghTestDeployPWA/static/js/main.3d5d8d62.chunk.js",
+    "main.js.map": "/ghTestDeployPWA/static/js/main.3d5d8d62.chunk.js.map",
     "runtime-main.js": "/ghTestDeployPWA/static/js/runtime-main.5d39abab.js",
     "runtime-main.js.map": "/ghTestDeployPWA/static/js/runtime-main.5d39abab.js.map",
     "static/js/2.b6b405b3.chunk.js": "/ghTestDeployPWA/static/js/2.b6b405b3.chunk.js",
@@ -10,6 +10,8 @@
     "static/js/3.a728b8cf.chunk.js": "/ghTestDeployPWA/static/js/3.a728b8cf.chunk.js",
     "static/js/3.a728b8cf.chunk.js.map": "/ghTestDeployPWA/static/js/3.a728b8cf.chunk.js.map",
     "index.html": "/ghTestDeployPWA/index.html",
+    "service-worker.js": "/ghTestDeployPWA/service-worker.js",
+    "service-worker.js.map": "/ghTestDeployPWA/service-worker.js.map",
     "static/css/main.598d92b4.chunk.css.map": "/ghTestDeployPWA/static/css/main.598d92b4.chunk.css.map",
     "static/js/2.b6b405b3.chunk.js.LICENSE.txt": "/ghTestDeployPWA/static/js/2.b6b405b3.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ghTestDeployPWA/static/media/logo.6ce24c58.svg"
@@ -18,6 +20,6 @@
     "static/js/runtime-main.5d39abab.js",
     "static/js/2.b6b405b3.chunk.js",
     "static/css/main.598d92b4.chunk.css",
-    "static/js/main.22fbbd6d.chunk.js"
+    "static/js/main.3d5d8d62.chunk.js"
   ]
 }
