@@ -72,6 +72,7 @@ function DragAndDrop(props) {
                 draggable={element.className==="vide"?false:true} 
                 onDrop={(e)=>{depot(e)}}
                 onDragStart={(e)=>{setDragStart(e.target.id)}}
+                onTouchStart={(e)=>{setDragStart(e.target.id)}}
                 title={"Corton Charlemagne "}
                 >{element.text}</div>
             })}
